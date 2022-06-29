@@ -4,7 +4,7 @@ MONSTERS DOM
 
 - Fetured are some of my favorite monsters that you can learn and see the differences between them
 
-- Also if you want to take the css and html be my guest. Even the JS but use this as a learning tool and try to do the JS yourself first
+- Also if you want to take the css, html and JS but use this as a learning tool and try to do the JS yourself first
 
 
 
