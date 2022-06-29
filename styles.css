@@ -96,13 +96,6 @@ p + *,
 
 .tab-content img {
   float: right;
-  width: calc((100% - 1em) / 2);
   margin-left: 1em;
   margin-bottom: 1em;
-}
-
-
-#digimon, img{
-  width: auto;
-  height: 50%;
 }
