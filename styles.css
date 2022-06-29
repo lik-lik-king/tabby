@@ -101,10 +101,6 @@ p + *,
   margin-bottom: 1em;
 }
 
-img source {
-  width: 50%;
-  height: 50%;
-}
 
 #digimon, img{
   width: auto;
