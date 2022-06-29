@@ -107,6 +107,6 @@ img source {
 }
 
 #digimon, img{
-  width: 100%;
+  width: auto;
   height: 50%;
 }
