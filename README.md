@@ -1,14 +1,13 @@
 MONSTERS DOM
 
-- This is a fun project that allows you to learn how to simply access the dom using JS
+This is a fun project that allows you to learn how to simply access the dom using JS. You can click on three different tabs and see a different desctiption and image of which tab you clicked on. 
 
-- Fetured are some of my favorite monsters that you can learn and see the differences between them by switching to the different tabs above each monster
+SETUP:
 
-- Also if you want to copy and paste the css and html but leave the js and use this as a learning tool to find out how you can access the DOM in order to swtotch back and fourth between tabs
+1. Copy all HTML. Add your own images to the html image source.
+<img src="your own image here"/>
 
-- COPY AND PASTE CSS AND HTML
+2. Copy all CSS.
 
-- DO NOT USE JS UNTIL YOU'VE TRIED IT YOURSELF FIRST
-
-
+3. Copy all JS.
 
