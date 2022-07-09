@@ -5,7 +5,7 @@ This is a fun project that allows you to learn how to simply access the dom usin
 SETUP:
 
 1. Copy all HTML. Add your own images to the html image source.
-<img src="your own image here"/>
+<img src="" alt="your image here"/>
 
 2. Copy all CSS.
 
